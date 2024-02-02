@@ -2,7 +2,7 @@
 
 This repository contains scripts and computational data used in the preparation of the following article:
 
-In Situ Analysis of Gas Dependent Redistribution Kinetics in Bimetallic Au-Pd Nanoparticles, Marta Perxés i Perich, Christopher R. O’Connor, Koen M. Draijer,  Nienke L. Visser, Nongnuch Artrith, Christian Reece, Petra E. de Jongh and **Jessi E.S. van der Hoeven** (preprint: TBD).
+[In Situ Analysis of Gas Dependent Redistribution Kinetics in Bimetallic Au-Pd Nanoparticles](https://doi.org/10.26434/chemrxiv-2024-5hr67), Marta Perxés Perich, Christopher R. O’Connor, Koen M. Draijer,  Nienke L. Visser, Nongnuch Artrith, Christian Reece, Petra E. de Jongh, and **Jessi E.S. van der Hoeven*** (preprint **2024**: https://doi.org/10.26434/chemrxiv-2024-5hr67).
 
 Please cite this reference if you make use of any parts of the source code or the density-functional theory (DFT) database.
 
